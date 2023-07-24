@@ -151,9 +151,10 @@
    npm run serve
    ```
 
-3. 启动后端项目
+3. 启动后端项目 在hrm目录下
+   mvn spring-boot:run
 
-4. 项目启动成功之后，访问http://localhost:8080/login
+5. 项目启动成功之后，访问http://localhost:8080/login
 
    账号：admin
    密码：123
